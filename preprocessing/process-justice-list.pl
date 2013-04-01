@@ -2,10 +2,8 @@
 ###############
 # process-justice-list.pl
 #
-# takes the input list of justices from wikipedia and outputs two things:
-#	- the list of bigrams starting the justice names so the proper 3-gram data files 
-#	can be downloaded from google
-#	- the list of justice names and appointment years for use in the hadoop mapper
+# takes the input list of justices from wikipedia and outputs the list 
+# of justice names and appointment years for use in the hadoop mapper
 ###############
 
 use strict;
