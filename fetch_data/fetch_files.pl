@@ -2,7 +2,7 @@
 ###############
 # fetch-files.pl
 #
-# Takes the input list of bigrams generated from justice names and downloads the
+# Takes the input list of justice names and downloads the
 # associated ngram files from google.
 #
 # the URLs for the files we want look like this:
