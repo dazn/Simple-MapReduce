@@ -8,8 +8,8 @@
 # The justice's name must appear in the 3-gram, and the year must be equal to or later than the 
 # appointment year
 #
-# The fields are written out in a different order so that the index for the reduce step is sorted
-# by year rather than by justice name.
+# The fields are written out in a different order so that the index for the reduce step is sorted by year
+# 
 ###############
 
 use strict;
